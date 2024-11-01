@@ -1,10 +1,10 @@
 # Maintainer: Your Name <your.email@example.com>
-pkgname=sf2player-reaper-plugin
+pkgname=sf2player-reaper-plugin.cpp
 pkgver=1.0.0
 pkgrel=1
 pkgdesc="A professional SF2 player plugin with GUI for Linux version of Reaper, built using JUCE and FluidSynth."
 arch=('x86_64')
-url="https://github.com/m20191201/sf2player-reaper-plugin/sf2player-reaper-plugin"
+url="https://github.com/m20191201/sf2player-reaper-plugin"
 license=('GPL')
 depends=('fluidsynth' 'juce')
 makedepends=('cmake' 'git')
